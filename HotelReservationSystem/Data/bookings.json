@@ -1,0 +1,37 @@
+﻿[
+  {
+    "BookingId": 1,
+    "GuestName": "Иван Иванов",
+    "RoomNumber": 1,
+    "CheckInDate": "2023-12-27",
+    "CheckOutDate": "2023-12-29"
+  },
+  {
+    "BookingId": 2,
+    "GuestName": "Марина Сидорова",
+    "RoomNumber": 2,
+    "CheckInDate": "2023-12-28",
+    "CheckOutDate": "2023-12-30"
+  },
+  {
+    "BookingId": 3,
+    "GuestName": "Петр Петров",
+    "RoomNumber": 3,
+    "CheckInDate": "2023-12-29",
+    "CheckOutDate": "2023-12-31"
+  },
+  {
+    "BookingId": 4,
+    "GuestName": "Анна Николаева",
+    "RoomNumber": 4,
+    "CheckInDate": "2023-12-30",
+    "CheckOutDate": "2024-01-01"
+  },
+  {
+    "BookingId": 5,
+    "GuestName": "Алексей Кузнецов",
+    "RoomNumber": 5,
+    "CheckInDate": "2023-12-31",
+    "CheckOutDate": "2024-01-02"
+  }
+]

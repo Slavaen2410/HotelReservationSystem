@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Number": 1,
+    "Type": "Single",
+    "Price": 100,
+    "IsBooked": false
+  },
+  {
+    "Number": 2,
+    "Type": "Double",
+    "Price": 150,
+    "IsBooked": false
+  },
+  {
+    "Number": 3,
+    "Type": "Single",
+    "Price": 100,
+    "IsBooked": false
+  },
+  {
+    "Number": 4,
+    "Type": "Double",
+    "Price": 150,
+    "IsBooked": false
+  },
+  {
+    "Number": 5,
+    "Type": "Single",
+    "Price": 100,
+    "IsBooked": false
+  },
+  {
+    "Number": 6,
+    "Type": "Double",
+    "Price": 150,
+    "IsBooked": false
+  },
+  {
+    "Number": 7,
+    "Type": "Single",
+    "Price": 100,
+    "IsBooked": false
+  },
+  {
+    "Number": 8,
+    "Type": "Double",
+    "Price": 150,
+    "IsBooked": false
+  },
+  {
+    "Number": 9,
+    "Type": "Single",
+    "Price": 100,
+    "IsBooked": false
+  },
+  {
+    "Number": 10,
+    "Type": "Double",
+    "Price": 150,
+    "IsBooked": false
+  }
+]
